@@ -34,3 +34,9 @@ assemble lot of different package managers in one workflow, and you can search i
 ### [Visual Studio Code](https://github.com/alexchantastic/alfred-open-with-vscode-workflow)
 
 a Workflow to open file / folder in VSCode quickly.
+
+### [Alfred Gitlab](https://github.com/lukewaite/alfred-gitlab)
+
+a Workflow to open gitlab repo quickly.
+
+
